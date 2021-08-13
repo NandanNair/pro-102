@@ -1,0 +1,42 @@
+Daily life:
+ Fun Tasks:
+> Play tennis
+> Play with friends
+> Play guitar
+ Boring Tasks:
+> Vacum
+> Cleaning
+> Reading
+
+Python:
+ Fun Tasks:
+> Take pictures using our webcam 
+> Uploadind pictures & files to dropbox
+> Transfering data
+ Boring Tasks:
+> While loop
+> Acess token
+> Using the terminal
+
+School:
+ Fun Tasks:
+> Acting in theatere class
+> Investigating and doing experiments in Science
+> Making projects for Individual and Societies class
+ Boring Tasks:
+> Final Exams
+> Reading comprehension tests
+> Write in a paper long texts.
+
+What I Will Code To Fix This Boring Things:
+ Daily life:
+  > I can create a auto task sorter to sort my tasks and organize myself of what do I need to do everyday, 
+  including reading, clenaing, vaucumming, etc.
+  > I can create a code that gives you points for every boring task you do and such points can give you prizes,
+  this will make the boring tasks more interesting
+ School:
+ > I can code an app that paraphrases books and gives you the most important information to make 
+ reading comprehension tests easier.
+ Python:
+ > I can try to use different ways to use the while loop, acces token and the terminal to find ways that
+ are more interesting to do.
